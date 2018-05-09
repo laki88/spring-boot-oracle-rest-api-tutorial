@@ -1,4 +1,4 @@
-# Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial
+# Spring Boot, Oracle, JPA, Hibernate Rest API Tutorial
 
 Build Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate.
 
@@ -8,7 +8,7 @@ Build Restful CRUD API for a simple Note-Taking application using Spring Boot, M
 
 2. Maven - 3.x.x
 
-3. Mysql - 5.x.x
+3. Oracle - 12.x.x
 
 ## Steps to Setup
 
